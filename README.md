@@ -2,12 +2,12 @@
 
 #### Responsive Web Design
 
-* **[Tribute Page]()**
-* **[Survey Form]()**
-* **[Technical Documentation]()**
-* **[Personal Portfolio Webpage]()**
+* **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/tribute-page)**
+* **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/survey-form)**
+* **[Technical Documentation](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/technical-documentation)**
+* **[Personal Portfolio Webpage](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/portfolio)**
 
 #### Front End Libraries
 
-* **[Random Quote Machine]()**
-* **[Markdown Previewer]()**
+* **[Random Quote Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/random-quote-generator)**
+* **[Markdown Previewer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/markdown-preview)**
