@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Previewer</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="css/markdown-preview.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.1/marked.min.js"
+        integrity="sha512-KCyhJjC9VsBYne93226gCA0Lb+VlrngllQqeCmX+HxBBHTC4HX2FYgEc6jT0oXYrLgvfglK49ktTTc0KVC1+gQ=="
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container-fluid py-4">
+        <div class="editor container border text-white p-0 mb-4">
+            <div class="bg-dark d-flex justify-content-between align-items-center p-2 m-0">
+                <h4 class="m-0">Editor</h4>
+                <i id="edit" class="fa fa-expand-arrows-alt text-white"></i>
+            </div>
+            <textarea class="m-0 form-control bg-secondary text-white" id="editor" onkeyup="updatePreview()"
+                rows="10"></textarea>
+        </div>
+        <div class="preview container border p-0 text-white">
+            <div class="bg-dark d-flex justify-content-between align-items-center p-2 m-0">
+                <h4 class="m-0">Previewer</h4>
+                <i id="view" class="fa fa-expand-arrows-alt text-white"></i>
+            </div>
+            <div id="preview" class="p-3 bg-secondary"></div>
+        </div>
+    </div>
+    <script src="js/markdown-preview.js" charset="utf-8"></script>
+</body>
+
+</html>
