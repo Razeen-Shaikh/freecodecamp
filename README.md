@@ -1,5 +1,7 @@
 # freecodecamp projects
 
+**Hosted URL :** ***https://razeen-shaikh.github.io/freecodecamp-projects/***
+
 #### Responsive Web Design
 
 * **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/tribute-page)**
