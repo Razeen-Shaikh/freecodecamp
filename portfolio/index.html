@@ -1,93 +1,127 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Razeen Shaikh's Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  </head>
 
-<head>
-  <meta charset="utf-8">
-  <title>Razeen Shaikh's Portfolio</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
+  <body>
+    <nav class="navbar">
+      <div>
+        <h1 class="brand">Razeen Shaikh</h1>
+      </div>
+      <div id="ham" class="hamburger"></div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
 
-<body>
-  <nav class="navbar">
-    <div>
+    <div id="home" class="home container-fluid">
+      <div>
+        <h1 class="name">Hello,</h1>
+        <h1 class="name">I am Razeen</h1>
+        <p class="description">front-end developer | react developer</p>
+      </div>
+    </div>
+
+    <div id="projects" class="projects container-fluid">
+      <h2 class="projects-title">My Projects</h2>
+      <div class="project-items">
+        <div class="project-item">
+          <a href="https://random-quote-generator-14624.herokuapp.com/">
+            <img
+              src="../images/random-quote-generator.png"
+              class="project-img"
+              alt="Random Quote Generator"
+            />
+            <h3 class="project-title">Random Quote Generator</h3>
+          </a>
+        </div>
+        <div class="project-item">
+          <a href="../survey-form/index.html">
+            <img
+              src="../images/survey-form.png"
+              class="project-img"
+              alt="Survey Form Project"
+            />
+            <h3 class="project-title">Survey Form</h3>
+          </a>
+        </div>
+        <div class="project-item">
+          <a href="../tribute-page/index.html">
+            <img
+              src="images/tribute-page.png"
+              class="project-img"
+              alt="Tribute Page Project"
+            />
+            <h3 class="project-title">Tribute Page</h3>
+          </a>
+        </div>
+        <div class="project-item">
+          <a href="../technical-documentation/index.html">
+            <img
+              src="images/technical-documentation.png"
+              class="project-img"
+              alt="Technical Documentation Project"
+            />
+            <h3 class="project-title">Technical Documentation</h3>
+          </a>
+        </div>
+        <div class="project-item">
+          <a href="../markdown-preview/index.html">
+            <img
+              src="../images/markdown-preview.png"
+              class="project-img"
+              alt="Mardown Preview Project"
+            />
+            <h3 class="project-title">Technical Documentation</h3>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div id="contact" class="contact container">
       <h1 class="brand">Razeen Shaikh</h1>
+      <div class="social-icons">
+        <div class="social-icon">
+          <a
+            href="https://github.com/Razeen-Shaikh"
+            class="icon"
+            target="_blank"
+          >
+            <img src="images/github.svg" alt="Github Icon" /> GitHub
+          </a>
+        </div>
+        <div class="social-icon">
+          <a
+            href="https://www.linkedin.com/in/razeen-shaikh-7a207b140/"
+            class="icon"
+            target="_blank"
+          >
+            <img src="images/linkedin.svg" alt="Linked In Icon" /> LinkedIn
+          </a>
+        </div>
+        <div class="social-icon">
+          <a
+            href="https://www.freecodecamp.org/razeen_shaikh"
+            class="icon"
+            target="_blank"
+          >
+            <img src="images/free-code-camp.svg" alt="Free Code Camp Icon" />
+            freecodecamp
+          </a>
+        </div>
+      </div>
+      <p class="copy-right">Copyright © 2020 Razeen. All rights reserved</p>
     </div>
-    <div id="ham" class="hamburger"></div>
-    <ul class="nav-links">
-      <li><a class="nav-link" href="#home">Home</a></li>
-      <li><a class="nav-link" href="#projects">Projects</a></li>
-      <li><a class="nav-link" href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-
-  <div id="home" class="home container-fluid">
-    <div>
-      <h1 class="name">Hello, </h1>
-      <h1 class="name">I am Razeen </h1>
-      <p class="description">front-end | react developer </p>
-    </div>
-  </div>
-
-  <div id="projects" class="projects container-fluid">
-    <h2 class="projects-title">My Projects</h2>
-    <div class="project-items">
-      <div class="project-item">
-        <a href="https://random-quote-generator-14624.herokuapp.com/">
-          <img src="../images/random-quote-generator.png" class="project-img" alt="Random Quote Generator">
-          <h3 class="project-title">Random Quote Generator</h3>
-        </a>
-      </div>
-      <div class="project-item">
-        <a href="../survey-form/index.html">
-          <img src="../images/survey-form.png" class="project-img" alt="Survey Form Project">
-          <h3 class="project-title">Survey Form</h3>
-        </a>
-      </div>
-      <div class="project-item">
-        <a href="../tribute-page/index.html">
-          <img src="images/tribute-page.png" class="project-img" alt="Tribute Page Project">
-          <h3 class="project-title">Tribute Page</h3>
-        </a>
-      </div>
-      <div class="project-item">
-        <a href="../technical-documentation/index.html">
-          <img src="images/technical-documentation.png" class="project-img" alt="Technical Documentation Project">
-          <h3 class="project-title">Technical Documentation</h3>
-        </a>
-      </div>
-      <div class="project-item">
-        <a href="../markdown-preview/index.html">
-          <img src="../images/markdown-preview.png" class="project-img" alt="Mardown Preview Project">
-          <h3 class="project-title">Technical Documentation</h3>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div id="contact" class="contact container">
-    <h1 class="brand">Razeen Shaikh</h1>
-    <div class="social-icons">
-      <div class="social-icon">
-        <a href="https://github.com/Razeen-Shaikh" class="icon" target="_blank">
-          <img src="images/github.svg" alt="Github Icon"> GitHub
-        </a>
-      </div>
-      <div class="social-icon">
-        <a href="https://www.linkedin.com/in/razeen-shaikh-7a207b140/" class="icon" target="_blank">
-          <img src="images/linkedin.svg" alt="Linked In Icon"> LinkedIn
-        </a>
-      </div>
-      <div class="social-icon">
-        <a href="https://www.freecodecamp.org/razeen_shaikh" class="icon" target="_blank">
-          <img src="images/free-code-camp.svg" alt="Free Code Camp Icon"> freecodecamp
-        </a>
-      </div>
-    </div>
-    <p class="copy-right">Copyright © 2020 Razeen. All rights reserved</p>
-    </>
     <script src="js/app.js" charset="utf-8"></script>
-</body>
-
+  </body>
 </html>
