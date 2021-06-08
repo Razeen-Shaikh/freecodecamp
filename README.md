@@ -2,13 +2,13 @@
 
 #### Responsive Web Design
 
-* **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/tribute-page)**
-* **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/survey-form)**
-* **[Product Landing Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/product-landing-page)**
-* **[Technical Documentation](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/technical-documentation)**
-* **[Personal Portfolio Webpage](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/portfolio)**
+* **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/tribute-page)**
+* **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/survey-form)**
+* **[Product Landing Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/product-landing-page)**
+* **[Technical Documentation](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/technical-documentation)**
+* **[Personal Portfolio Webpage](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/personal-portfolio-webpage)**
 
-#### JavaScript Algorithms and Data Structures
+#### JavaScript Algorithms and Data Structure
 
 * **[Palindrome Checker]()**
 * **[Roman Numeral Converter]()**
@@ -18,8 +18,8 @@
 
 #### Front End Libraries
 
-* **[Random Quote Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/random-quote-generator)**
-* **[Markdown Previewer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/markdown-preview)**
+* **[Random Quote Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/random-quote-generator)**
+* **[Markdown Previewer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/markdown-preview)**
 * **[Drum Machine]()**
 * **[JavaScript Calculator]()**
 * **[25 + 5 Clock]()**
