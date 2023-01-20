@@ -975,3 +975,30 @@ function checkEqual(a, b) {
   return a == b ? "Equal" : "Not Equal";
 }
 checkEqual(1, 2);
+
+/** Use Multiple Conditional (Ternary) Operators */
+function checkSign(num) {
+  return num < 0 ? "negative" : num > 0 ? "positive" : "zero";
+}
+checkSign(10);
+
+/** Use Recursion to Create a Countdown */
+function countdown(n) {
+  if (n < 1) {
+    return [];
+  } else {
+    let count = countdown(n - 1);
+    count.unshift(n);
+    return count;
+  }
+}
+
+/** Use Recursion to Create a Range of Numbers */
+function rangeOfNumbers(startNum, endNum) {
+  if (endNum < startNum) return [];
+  else {
+    let rangeArr = rangeOfNumbers(startNum + 1, endNum);
+    rangeArr.unshift(startNum);
+    return rangeArr;
+  }
+}
