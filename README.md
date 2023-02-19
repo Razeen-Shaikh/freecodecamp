@@ -1,12 +1,23 @@
 # freecodecamp projects
 
-#### Responsive Web Design
+### Responsive Web Design
+
+##### Certification Projects
 
 * **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/tribute-page)**
 * **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/survey-form)**
 * **[Product Landing Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/product-landing-page)**
 * **[Technical Documentation](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/technical-documentation)**
 * **[Personal Portfolio Webpage](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/personal-portfolio-webpage)**
+
+##### Learning Projects
+
+* **[Cat Photo App](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/cat-photo-app)**
+* **[Cafe Menu](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/cafe-menu)**
+* **[Set of Coloured Markers](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/set-of-colored-markers)**
+* **[Registration Form]()**
+* **[Rothko Painting]()**
+* **[Nutrition Label]()**
 
 #### JavaScript Algorithms and Data Structure
 
@@ -102,36 +113,3 @@
 * **[Build a Voting App]()**
 * **[Build a Pong Game]()**
 * **[Build a Light-Bright App]()**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
