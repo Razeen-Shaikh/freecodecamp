@@ -2,40 +2,62 @@
 
 ### Responsive Web Design
 
-##### Certification Projects
+#### Certification Projects
 
-* **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/tribute-page)**
-* **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/survey-form)**
-* **[Product Landing Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/product-landing-page)**
-* **[Technical Documentation](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/technical-documentation)**
-* **[Personal Portfolio Webpage](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/personal-portfolio-webpage)**
+* **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/tribute-page)**
+* **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/survey-form)**
+* **[Product Landing Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/product-landing-page)**
+* **[Technical Documentation](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/technical-documentation)**
+* **[Personal Portfolio Webpage](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/personal-portfolio-webpage)**
 
-##### Learning Projects
+#### Learning Projects
 
 * **[Cat Photo App](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/cat-photo-app)**
 * **[Cafe Menu](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/cafe-menu)**
 * **[Set of Coloured Markers](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/set-of-colored-markers)**
-* **[Registration Form]()**
-* **[Rothko Painting]()**
-* **[Nutrition Label]()**
+* **[Registration Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/registration-form)**
+* **[Rothko Painting](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/rothko-painting)**
+* **[Nutrition Label](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/nutrition-label)**
+* **[Balance Sheet](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/balance-sheet)**
+* **[Cat Painting](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/cat-painting)**
+* **[Piano](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/piano)**
+* **[City Skyline](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/city-skyline)**
+* **[Magazine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/magazine)**
+* **[Ferris Wheel](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/ferris-wheel)**
+* **[Penguin](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/penguin)**
 
-#### JavaScript Algorithms and Data Structure
+### JavaScript Algorithms and Data Structure
 
-* **[Palindrome Checker]()**
-* **[Roman Numeral Converter]()**
-* **[Caesars Cipher]()**
-* **[Telephone Number Validator]()**
-* **[Cash Register]()**
+#### Certification Projects
 
-#### Front End Libraries
+* **[Palindrome Checker](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/palindrome-checker)**
+* **[Roman Numeral Converter](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/roman-numeral-converter)**
+* **[Caesars Cipher](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/caesars-cipher)**
+* **[Telephone Number Validator](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/telephone-number-validator)**
+* **[Cash Register](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/cash-register)**
 
-* **[Random Quote Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/random-quote-generator)**
-* **[Markdown Previewer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/markdown-preview)**
+#### Learning Projects
+
+* **[Pyramid Generator](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/pyramid-generator)**
+* **[Gradebook App](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/gradebook-app)**
+* **[Role Playing Game](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/role-playing-game)**
+* **[Random Background Color Changer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/random-background-color-changer)**
+* **[Calorie Counter](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/calorie-counter)**
+
+### Front End Libraries
+
+#### Certification Projects
+
+* **[Random Quote Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/random-quote-generator)**
+* **[Markdown Previewer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/markdown-preview)**
 * **[Drum Machine]()**
 * **[JavaScript Calculator]()**
 * **[25 + 5 Clock]()**
 
-#### Data Visualization
+#### Learning Projects
+
+
+### Data Visualization
 
 * **[Visualize Data with a Bar Chart]()**
 * **[Visualize Data with a Scatterplot Graph]()**
@@ -43,7 +65,7 @@
 * **[Visualize Data with a Choropleth Map]()**
 * **[Visualize Data with a Treemap Diagram]()**
 
-#### APIs and Microservices
+### APIs and Microservices
 
 * **[Timestamp Microservice]()**
 * **[Request Header Parser Microservice]()**
@@ -51,7 +73,7 @@
 * **[Exercise Tracker]()**
 * **[File Metadata Microservice]()**
 
-#### Quality Assurance
+### Quality Assurance
 
 * **[Metric-Imperial Converter]()**
 * **[Issue Tracker]()**
@@ -59,7 +81,7 @@
 * **[Sudoku Solver]()**
 * **[American British Translator]()**
 
-#### Scientific Computing with Python
+### Scientific Computing with Python
 
 * **[Arithmetic Formatter]()**
 * **[Time Calculator]()**
@@ -67,7 +89,7 @@
 * **[Polygon Area Calculator]()**
 * **[Probability Calculator]()**
 
-#### Data Analysis with Python
+### Data Analysis with Python
 
 * **[Mean-Variance-Standard Deviation Calculator]()**
 * **[Demographic Data Analyzer]()**
@@ -75,7 +97,7 @@
 * **[Page View Time Series Visualizer]()**
 * **[Sea Level Predictor]()**
 
-#### Information Security
+### Information Security
 
 * **[Stock Price Checker]()**
 * **[Anonymous Message Board]()**
@@ -83,7 +105,7 @@
 * **[SHA-1 Password Cracker]()**
 * **[Secure Real Time Multiplayer Game]()**
 
-#### Machine Learning with Python
+### Machine Learning with Python
 
 * **[Rock Paper Scissors]()**
 * **[Cat and Dog Image Classifier]()**
@@ -91,7 +113,7 @@
 * **[Linear Regression Health Costs Calculator]()**
 * **[Neural Network SMS Text Classifier]()**
 
-#### Coding Interview Prep
+### Coding Interview Prep
 
 * **[Show the Local Weather]()**
 * **[Build a Wikipedia Viewer]()**

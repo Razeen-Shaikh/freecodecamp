@@ -4,12 +4,11 @@ const entryDropdown = document.getElementById('entry-dropdown');
 const addEntryButton = document.getElementById('add-entry');
 const clearButton = document.getElementById('clear');
 const output = document.getElementById('output');
-
 let isError = false;
 
 function cleanInputString(str) {
   const regex = /[+-\s]/g;
-  return str.replace(regex, "");
+  return str.replace(regex, '');
 }
 
 function isInvalidInput(str) {
@@ -19,14 +18,33 @@ function isInvalidInput(str) {
 
 function addEntry() {
   const targetInputContainer = document.querySelector(`#${entryDropdown.value} .input-container`);
-  const entryNumber = targetInputContainer.querySelectorAll('input[type="text"]').length;
+  const entryNumber = targetInputContainer.querySelectorAll('input[type="text"]').length + 1;
   const HTMLString = `
   <label for="${entryDropdown.value}-${entryNumber}-name">Entry ${entryNumber} Name</label>
-  <input type="text" placeholder="Name" id="${entryDropdown.value}-${entryNumber}-name">
+  <input type="text" id="${entryDropdown.value}-${entryNumber}-name" placeholder="Name" />
   <label for="${entryDropdown.value}-${entryNumber}-calories">Entry ${entryNumber} Calories</label>
-  <input type="number" min="0" placeholder="Calories" id="${entryDropdown.value}-${entryNumber}-calories">
-  `;
-  targetInputContainer.innerHTML += HTMLString;
+  <input
+    type="number"
+    min="0"
+    id="${entryDropdown.value}-${entryNumber}-calories"
+    placeholder="Calories"
+  />`;
+  targetInputContainer.insertAdjacentHTML("beforeend", HTMLString);
 }
 
-addEntryButton.addEventListener('click', addEntry);
+function getCaloriesFromInputs(list) {
+  let calories = 0;
+  for (const item of list) {
+    const currVal = cleanInputString(item.value);
+    let invalidInputMatch = isInvalidInput(currVal);
+
+    if (invalidInputMatch) {
+      alert(`Invalid Input: ${invalidInputMatch[0]}`);
+    }
+
+  }
+
+}
+
+
+addEntryButton.addEventListener("click", addEntry);
