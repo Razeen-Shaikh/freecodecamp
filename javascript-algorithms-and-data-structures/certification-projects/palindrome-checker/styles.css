@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #090408;
+  color: #f2f2f2;
+}
+
+#text-input, #check-btn,
+#result {
+  margin-top: 1rem;
+}
+
+#text-input,
+#check-btn {
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  color: #090408;
+}
+
+#result,
+p {
+  font-size: 1.5rem;
+}
+

@@ -1,8 +1,8 @@
 # freecodecamp projects
 
-### Responsive Web Design
+## Responsive Web Design
 
-#### Certification Projects
+### Certification Projects
 
 * **[Tribute Page](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/tribute-page)**
 * **[Survey Form](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/certification-projects/survey-form)**
@@ -26,9 +26,9 @@
 * **[Ferris Wheel](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/ferris-wheel)**
 * **[Penguin](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/responsive-web-design/learning-projects/penguin)**
 
-### JavaScript Algorithms and Data Structure
+## JavaScript Algorithms and Data Structure
 
-#### Certification Projects
+### Certification Projects
 
 * **[Palindrome Checker](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/palindrome-checker)**
 * **[Roman Numeral Converter](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/roman-numeral-converter)**
@@ -36,28 +36,30 @@
 * **[Telephone Number Validator](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/telephone-number-validator)**
 * **[Cash Register](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/certification-projects/cash-register)**
 
-#### Learning Projects
+### Learning Projects
 
 * **[Pyramid Generator](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/pyramid-generator)**
 * **[Gradebook App](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/gradebook-app)**
 * **[Role Playing Game](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/role-playing-game)**
 * **[Random Background Color Changer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/random-background-color-changer)**
 * **[Calorie Counter](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/calorie-counter)**
+* **[Rock, Paper, Scissors](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/rock-paper-scissors)**
+* **[Music Player](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/javascript-algorithms-and-data-structures/learning-projects/music-player)**
 
-### Front End Libraries
+## Front End Libraries
 
-#### Certification Projects
+### Certification Projects
 
 * **[Random Quote Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/random-quote-generator)**
 * **[Markdown Previewer](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/markdown-preview)**
-* **[Drum Machine]()**
-* **[JavaScript Calculator]()**
-* **[25 + 5 Clock]()**
+* **[Drum Machine](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/drum-machine)**
+* **[JavaScript Calculator](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/javascript-calculator)**
+* **[25 + 5 Clock](https://github.com/Razeen-Shaikh/freecodecamp-projects/tree/main/frontend-libraries/certification-projects/25-5-clock)**
 
-#### Learning Projects
+### Learning Projects
 
 
-### Data Visualization
+## Data Visualization
 
 * **[Visualize Data with a Bar Chart]()**
 * **[Visualize Data with a Scatterplot Graph]()**
@@ -65,7 +67,7 @@
 * **[Visualize Data with a Choropleth Map]()**
 * **[Visualize Data with a Treemap Diagram]()**
 
-### APIs and Microservices
+## APIs and Microservices
 
 * **[Timestamp Microservice]()**
 * **[Request Header Parser Microservice]()**
@@ -73,7 +75,7 @@
 * **[Exercise Tracker]()**
 * **[File Metadata Microservice]()**
 
-### Quality Assurance
+## Quality Assurance
 
 * **[Metric-Imperial Converter]()**
 * **[Issue Tracker]()**
@@ -81,7 +83,7 @@
 * **[Sudoku Solver]()**
 * **[American British Translator]()**
 
-### Scientific Computing with Python
+## Scientific Computing with Python
 
 * **[Arithmetic Formatter]()**
 * **[Time Calculator]()**
@@ -89,7 +91,7 @@
 * **[Polygon Area Calculator]()**
 * **[Probability Calculator]()**
 
-### Data Analysis with Python
+## Data Analysis with Python
 
 * **[Mean-Variance-Standard Deviation Calculator]()**
 * **[Demographic Data Analyzer]()**
@@ -97,7 +99,7 @@
 * **[Page View Time Series Visualizer]()**
 * **[Sea Level Predictor]()**
 
-### Information Security
+## Information Security
 
 * **[Stock Price Checker]()**
 * **[Anonymous Message Board]()**
@@ -105,7 +107,7 @@
 * **[SHA-1 Password Cracker]()**
 * **[Secure Real Time Multiplayer Game]()**
 
-### Machine Learning with Python
+## Machine Learning with Python
 
 * **[Rock Paper Scissors]()**
 * **[Cat and Dog Image Classifier]()**
