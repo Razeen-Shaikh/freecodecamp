@@ -27,8 +27,6 @@ const animationData = [
   },
 ];
 
-function countdown(number) { }
-
 function decimalToBinary(input) {
   if (input === 0 || input === 1) {
     return String(input);
