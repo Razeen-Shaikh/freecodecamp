@@ -58,7 +58,7 @@ const insertionSort = (array) => {
             j--;
         }
 
-        arr[j + 1] = currValue;
+        array[j + 1] = currValue;
     }
 
     return array;
