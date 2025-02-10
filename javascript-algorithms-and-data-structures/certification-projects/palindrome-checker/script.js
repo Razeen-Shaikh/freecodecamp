@@ -3,8 +3,8 @@ const result = document.getElementById("result");
 const checkBtn = document.getElementById("check-btn");
 
 const checkPalindrome = () => {
-  const str = text.value.trim(); // Trim whitespace
-  result.classList.remove("hidden"); // Ensure result is visible
+  const str = text.value.trim(); 
+  result.classList.remove("hidden");
 
   if (!str) {
     result.textContent = "Please input a value";
@@ -13,7 +13,6 @@ const checkPalindrome = () => {
     return;
   }
 
-  // Remove non-alphanumeric characters and convert to lowercase
   const cleanedStr = str.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
 
   if (cleanedStr.length === 0) {
@@ -22,11 +21,11 @@ const checkPalindrome = () => {
     return;
   }
 
-  // Check if the cleaned string is a palindrome
   const isPalindrome = cleanedStr === cleanedStr.split("").reverse().join("");
-  result.textContent = `${str} ${isPalindrome ? "is a palindrome" : "is not a palindrome"}`;
+  result.textContent = `${str} ${
+    isPalindrome ? "is a palindrome" : "is not a palindrome"
+  }`;
   result.classList.remove("error");
 };
 
-// Attach event listener
 checkBtn.addEventListener("click", checkPalindrome);

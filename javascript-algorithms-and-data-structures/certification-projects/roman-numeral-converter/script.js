@@ -22,7 +22,7 @@ const convert = () => {
   const num = numberInput.value;
 
   output.textContent = "";
-  output.classList.remove("alert"); // Clear previous alerts
+  output.classList.remove("alert");
   output.classList.remove("hidden");
 
   if (num === "") {
@@ -31,7 +31,7 @@ const convert = () => {
     return;
   }
 
-  let number = parseInt(num); // Convert to number
+  let number = parseInt(num);
 
   if (isNaN(number)) {
     output.textContent = "Please enter a valid number";
@@ -42,7 +42,7 @@ const convert = () => {
   if (number < 1) {
     output.textContent = "Please enter a number greater than or equal to 1";
     output.classList.add("alert");
-    return
+    return;
   }
 
   if (number >= 4000) {

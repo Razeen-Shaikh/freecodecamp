@@ -51,7 +51,7 @@ function showAnimation() {
     setTimeout(() => {
       document.getElementById(obj.inputVal).remove();
     }, obj.removeElDelay);
-    setTimeout(() => { }, 20000);
+    setTimeout(() => {}, 20000);
   });
 }
 
