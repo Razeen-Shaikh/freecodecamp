@@ -35,6 +35,7 @@
 - **[Caesars Cipher](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/caesars-cipher)**
 - **[Telephone Number Validator](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/telephone-number-validator)**
 - **[Cash Register](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/cash-register)**
+- **[RPG Creature Search App](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/rpg-creature-search-app)**
 
 ### Learning Projects
 
@@ -55,6 +56,9 @@
 - **[Spreadsheet](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/learning-projects/spreadsheet)**
 - **[Shopping Cart](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/learning-projects/shopping-cart)**
 - **[Platformer Game](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/learning-projects/platformer-game)**
+- **[Dice Game](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/dice-game)**
+- **[fCC Authors Page](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/fcc-authors-page)**
+- **[fCC Forum Leaderboard](https://github.com/Razeen-Shaikh/freecodecamp/tree/main/javascript-algorithms-and-data-structures/certification-projects/fcc-forum-leaderboard)**
 
 ## Front End Libraries
 
