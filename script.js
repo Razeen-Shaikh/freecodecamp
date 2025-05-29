@@ -45,7 +45,7 @@ const projects = [
     title: "Photo Gallery",
     description: "A photo gallery created with HTML and CSS.",
     image: "images/photo-gallery.png",
-    link: "responsive-web-design/learning-projects/photo-gallery/index.html",
+    link: "https://razeen-shaikh.github.io/photo-gallery/",
     category: "responsive-web-design",
   },
   {
@@ -73,7 +73,7 @@ const projects = [
     title: "Balance Sheet",
     description: "A balance sheet created with HTML and CSS.",
     image: "images/balance-sheet.png",
-    link: "responsive-web-design/learning-projects/balance-sheet/index.html",
+    link: "https://razeen-shaikh.github.io/balance-sheet/",
     category: "responsive-web-design",
   },
   {
